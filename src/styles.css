@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+/*another option that relays on webpack*/
+/*@import '../node_modules/font-awesome/css/font-awesome.css';*/
+
+body {
+    /*font-family: Arial;*/
+    font-family: 'Raleway', sans-serif;
+    background-color: lemonchiffon;
+
+}
